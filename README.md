@@ -5,6 +5,3 @@
 🎨 Passionate about clean design aesthetics.<br>
 🌐 Open-source supporter & contributor.<br>
 📫 Let's collaborate on exciting projects!<br>
-
-[rafiquljakir@gmail.com] <br>
-[https://www.linkedin.com/in/rafiquljakir/]
