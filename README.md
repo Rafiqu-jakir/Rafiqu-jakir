@@ -1,4 +1,4 @@
-## 👋 Web Developer | MERN Stack Enthusiast | Cybersecurity Learner
+## 👋 Web Developer | MERN Stack Enthusiast | Noob Problem Solver
 
 💻 Building responsive web apps with MERN stack.<br>
 🔒 Exploring the world of cybersecurity.<br>
