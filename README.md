@@ -1,6 +1,6 @@
-## 👋 Web Developer | MERN Stack Enthusiast | Noob Problem Solver
+## 👋 Web Designer & Developer | Noob Problem Solver
 
-💻 Building responsive web apps with MERN stack.<br>
+💻 Building responsive web apps with Laravel and Wordpress.<br>
 🔒 Exploring the world of cybersecurity.<br>
 🎨 Passionate about clean design aesthetics.<br>
 🌐 Open-source supporter & contributor.<br>
